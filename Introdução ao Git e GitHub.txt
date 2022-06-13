@@ -1,0 +1,43 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+Introdução ao Git e GitHub
+
+Comandos essenciais para trabalhar no terminal:
+
+Windows
+-> dir = listar diretórios
+-> cd nome_da_pasta = entrar/navegar entre pastas
+-> cd.. = retrocede um nível, sai da pasta
+-> cls = limpar terminal
+-> ctrl + l = atalho para limpar terminal
+-> mkdir nome_da_pasta = criar pasta
+-> ls = exibir o que tem dentro da pasta
+-> ls -a = exibir pastas ocultas (-a = flags)
+-> del nome_do_arquivo = excluir pasta ou nome_do_arquivo
+-> rmdir nome_da_pasta = apagar um diretórios
+-> rmdir nome_da_pasta 
+
+
+Unix
+-> ls = listar diretórios
+-> cd nome_da_pasta = entrar/navegar entre pastas
+-> clear = limpar terminal
+-> ctrl + l = atalho para limpar terminal
+-> mkdir nome_da_pasta = criar pasta
+-> del nome_do_arquivo = excluir pasta ou nome_do_arquivo
+-> rmdir -rf nome_da_pasta = apagar um diretórios
+-> rmdir nome_da_pasta 
+
+
+Comandos importantes
+-> git config = configurar o Git
+-> git init = iniciar o Git
+-> git add = iniciar versionamento - utilizar sempre que modificar um arquivo
+-> git commit = criar commit
+-> git Status = status dos arquivos
+-> gif diff = Consultar alterações que está no arquivo e que está no diretório, porém não está no staging area
+-> git diff - - staged = para saber o que foi alterado e que está no staging area
+-> git log = mostra o histórico de todos os commites 
+-> git log –p = coloca os commites em ordem decrescentes e o diff de cada commit -> ao finalizar apertar "q" // git log –p –1 ou –2 ou –n (o número de commits que deseja visualizar) )
+
+
